@@ -1,3 +1,3 @@
 # Contributors
 
-- [Muhammad Syafrizal](https://github.com/ikaru19)
+- [Daffa Abdul Farras](https://github.com/davey619-sgb)
